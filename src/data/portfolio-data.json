@@ -1,0 +1,310 @@
+{
+  "profile": {
+    "name": "Abhigya Kanungo",
+    "definingPersona": "AI-Native Product Builder & Operations Strategist",
+    "statusBadge": "Available for Product & Growth Roles",
+    "tagline": "Curious about how things work. Passionate about building how they should.",
+    "heroIntro": "Hey, I'm Abhigya. I bridge product requirements, frontend code, modern AI tools, and brand storytelling. If a problem is messy or unstructured, I stay calm, break down the fundamentals, and build a clean, practical solution.",
+    "superpowerQuote": "My superpower is simple: I am a resourceful problem-solver who just gets things done. If I don't know how to do something, I will spend the time troubleshooting, experimenting and figuring it out. I thrive in fast-moving environments, staying calm and finding a way to move projects forward, no matter how messy things look at first. I genuinely enjoy working right at the intersection of business, operations, and technology, with a strong belief that the best products today are built by combining Human Intelligence with AI Execution.",
+    "locations": ["Pune, MH", "Indore, MP"],
+    "heroImage": "/assets/images/abhigya-hero-main.jpg",
+    "signatureLogo": "/assets/images/signature-dark.png",
+    "signatureWhite": "/assets/images/signature-white.png",
+    "signatureEmerald": "/assets/images/signature-emerald.png",
+    "verifiedLinks": {
+      "email": "kanungoabhigya3750@gmail.com",
+      "phone": "+91 9993805217",
+      "linkedin": "https://www.linkedin.com/in/abhigyakanungo",
+      "github": "https://github.com/abhigya3750",
+      "notion": "https://notion.so",
+      "resumeFolder": "https://drive.google.com/drive/folders/1gUuhk-BoO5bukmOsqsas--g-3e5wpGmQ?usp=share_link",
+      "certificationsFolder": "https://drive.google.com/drive/folders/1VAJNkzWHKG8WFd1IejdWpmNqpeErmC-j?usp=share_link",
+      "rapidoLiveApp": "https://rapido-bikepool.vercel.app"
+    }
+  },
+  "philosophy": {
+    "curiosity": {
+      "title": "First-Principles Curiosity",
+      "quote": "I love breaking down complex systems—whether it's a payment reconciliation engine, a GenAI bidding workflow, or a frontend component tree—to understand how every piece fits together under the hood. I learn by building. When new AI tools come out, I don't just read about them; I use them to build working interactive prototypes.",
+      "tags": ["Reconciliation Engines", "GenAI Bidding Workflows", "Component Trees", "First-Principles Audits"]
+    },
+    "sportsResilience": {
+      "title": "Calm Under Pressure",
+      "quote": "As a competitive Table Tennis (TT) Champion, high-stakes matches trained my split-second strategic reflexes, resilience under pressure, and drive to out-prepare the competition. When code breaks or deployment windows tighten, I stay level-headed and execute.",
+      "achievement": "ARDOR Table Tennis (TT) Champion",
+      "photo": "/assets/images/table-tennis-trophy.jpg"
+    },
+    "toolkit": [
+      {
+        "title": "Product Architecture & Strategy",
+        "tagline": "Mapping user journeys, uncovering edge cases, writing clear PRDs & BRDs, and running Agile sprints.",
+        "tools": ["Jira", "Notion", "Figma", "SQL", "Python", "Miro", "Confluence", "Google Workspace", "Canva", "RICE Framework"],
+        "capabilities": ["Authoring PRDs & BRDs", "Edge-case auditing", "Mapping user flows", "Agile sprint planning"]
+      },
+      {
+        "title": "Frontend & UI Craft",
+        "tagline": "Bringing wireframes to life with clean code and interactive components that feel fast and simple to use.",
+        "tools": ["Next.js 14", "React 18", "TypeScript", "Tailwind CSS", "Modern Flex/Grid", "REST APIs"],
+        "capabilities": ["Responsive mobile-first UIs", "Fluid glassmorphism", "Semantic HTML", "UI prototyping"]
+      },
+      {
+        "title": "AI-Native Execution & Vibe Coding",
+        "tagline": "Leveraging modern AI models, LLMs, and agentic workflows to research, prototype, and build 10x faster.",
+        "tools": ["Gemini 1.5", "Claude 3.5 Sonnet", "GPT-4o", "Cursor", "Antigravity IDE", "v0.dev", "Perplexity AI"],
+        "capabilities": ["Context-rich system prompt engineering", "Vibe coding UI prototypes", "Automated competitor teardowns"]
+      },
+      {
+        "title": "Brand & Product Marketing",
+        "tagline": "Crafting compelling brand stories, defining product positioning, and turning raw concepts into recognizable brands.",
+        "tools": ["Brand Positioning", "Value Proposition Canvas", "GTM Launch Planning", "User Onboarding Flows"],
+        "capabilities": ["Core brand identity", "Tone of voice", "GTM roadmaps", "Friction-free onboarding"]
+      }
+    ]
+  },
+  "experience": [
+    {
+      "id": "adastraa",
+      "title": "Business Analyst Trainee",
+      "company": "AdAstraa Technologies Pvt. Ltd.",
+      "period": "Jan 2026 – Aug 2026",
+      "location": "Pune, MH",
+      "type": "Full-Time Industry Role",
+      "logo": "/assets/images/adastraa-logo.jpg",
+      "description": "Led product discovery and strategic requirements engineering for automated Amazon PPC optimization software suites.",
+      "highlights": [
+        "Conducted market discovery and competitive teardowns for a suite of 4 AI-driven Amazon PPC tools to define feature positioning.",
+        "Acted as the core strategic bridge between e-commerce brands, manufacturers, and technical engineering teams.",
+        "Translated complex merchant pain points into actionable PRDs, user stories, and acceptance criteria.",
+        "Optimized client onboarding workflows to accelerate seller adoption of automated AI bidding strategies."
+      ],
+      "skills": ["Amazon PPC AI", "PRD Authoring", "Competitive Teardowns", "Seller Onboarding", "Cross-Functional Bridge"]
+    },
+    {
+      "id": "fingpay",
+      "title": "Operations Associate",
+      "company": "Fingpay — Tapits Technologies Pvt. Ltd.",
+      "period": "Jun 2025 – Nov 2025",
+      "location": "Indore, MP",
+      "type": "Fintech Operations Role",
+      "logo": "/assets/images/fingpay-logo.jpg",
+      "description": "Spearheaded digital payment infrastructure deployment, reconciliation BRDs, and partner ERP automation.",
+      "highlights": [
+        "Managed end-to-end implementation of digital payment collection and reconciliation solutions (Dynamic/Static QR, UPI, Cards, NetBanking).",
+        "Partnered with 5+ strategic ERP and billing software providers to automate financial reconciliation via detailed BRDs.",
+        "Gathered client technical specifications and led 5+ major enterprise accounts through UAT and live deployment phases."
+      ],
+      "photos": [
+        {
+          "caption": "At Tapits Technologies HQ, Indore",
+          "url": "/assets/images/abhigya-tapits-office.jpg"
+        },
+        {
+          "caption": "Fintech Operations Team Group",
+          "url": "/assets/images/fingpay-team-group.jpg"
+        }
+      ],
+      "skills": ["UPI & Dynamic QR", "Payment Reconciliation", "ERP Integration", "Client UAT", "Fintech Operations"]
+    },
+    {
+      "id": "edc",
+      "title": "Public Relations Leader",
+      "company": "Entrepreneurship Development Cell (EDC Acropolis)",
+      "period": "Aug 2023 – Nov 2024",
+      "location": "Indore, MP",
+      "type": "Campus Leadership Role",
+      "logo": "/assets/images/edc-logo.jpg",
+      "description": "Directed high-impact entrepreneurial ecosystem initiatives, startup pitch showcases, and investor relations.",
+      "highlights": [
+        "Directed a core team of 20 and managed 100+ volunteers across 15+ large-scale events (E-Summit '24, PitchBizz 4.0, Kriyeta Hackathons).",
+        "Built strategic partnerships with 10+ institutional startup communities to foster entrepreneurial culture.",
+        "Facilitated pitch sessions for 40+ student startups and coordinated high-level interactions with 10+ angel investors."
+      ],
+      "photos": [
+        {
+          "caption": "Core Leadership Team at Acropolis E-Summit",
+          "url": "/assets/images/edc-team-shirts.jpg"
+        }
+      ],
+      "skills": ["PR & Brand Communications", "Team Leadership (20 Core)", "40+ Startup Showcases", "10+ Investor Relations"]
+    }
+  ],
+  "flagship": {
+    "id": "rapido-bikepool",
+    "title": "Rapido Bikepool & Highway RideShare",
+    "tagline": "Formalizing organic commuter bike-sharing into a zero-detour, peer-to-peer mobility product.",
+    "category": "Mobility UX • Product Architecture • Live Telemetry Engine",
+    "logo": "/assets/images/rapido-pin.jpg",
+    "liveUrl": "https://rapido-bikepool.vercel.app",
+    "linkedinHook": "Why are two-wheeler owners secretly using the Rapido Captain app every single morning? They aren't taxi drivers. They are daily commuters sharing their empty pillion seat to split petrol costs. Here is how we formalize organic commuter bike-sharing into a zero-detour product.",
+    "problemBreakdown": "Daily commuters spend up to 40% of their daily earnings on cab and auto fares. Concurrently, tens of thousands of two-wheeler riders travel along identical tech corridors with empty pillion seats. Commercial ride-hailing apps classify every rider as a taxi driver, generating steep friction for working professionals.",
+    "socialMotivations": [
+      {
+        "title": "Peer Cost Recovery",
+        "description": "Fair petrol expense sharing (₹35 – ₹52 per city trip) with zero commercial profit-mongering."
+      },
+      {
+        "title": "Professional Networking",
+        "description": "Building spontaneous community among tech professionals commuting along common corridors."
+      },
+      {
+        "title": "Green Travel & Traffic Relief",
+        "description": "Halving single-occupancy vehicles on choked morning corridors, reducing carbon footprints."
+      }
+    ],
+    "coreInnovations": [
+      {
+        "id": "radar",
+        "title": "5-Minute Hosting Radar",
+        "tagline": "Flexible, stress-free departure windows.",
+        "bullet1": "Host broadcasts availability for exactly 5 minutes along their natural commute corridor (e.g. Mahalaxmi Nagar ➔ Scheme No 54, Indore).",
+        "bullet2": "If no co-rider matches within 5 minutes, host rides solo with zero penalty, zero stress, and zero algorithmic punishment.",
+        "icon": "Clock",
+        "slideImage": "/assets/images/rapido-slide-4.jpg"
+      },
+      {
+        "id": "pink-pool",
+        "title": "Pink Pool Community",
+        "tagline": "Women-only verified corridor matching.",
+        "bullet1": "Verified women-only host and passenger corridor pairing for complete safety and comfort.",
+        "bullet2": "Mandatory DigiLocker Government ID safety verification checkpoints integrated natively.",
+        "icon": "ShieldCheck",
+        "slideImage": "/assets/images/rapido-slide-4.jpg"
+      },
+      {
+        "id": "highway",
+        "title": "Intercity Highway Engine",
+        "tagline": "Scheduled corridors spanning 30km to 200km.",
+        "bullet1": "Pre-scheduled long-distance rides (e.g., Indore ➔ Bhopal ISBT Terminal, 195km).",
+        "bullet2": "Transparent peer cost-split slider (₹360 host seat share vs. ₹2,800 commercial private cab).",
+        "icon": "Milestone",
+        "slideImage": "/assets/images/rapido-slide-4.jpg"
+      }
+    ],
+    "zeroDetourMechanism": {
+      "rule": "100m Walk for Passenger. Zero Detour for Host.",
+      "details": [
+        "Passenger walks 80m – 120m to the nearest main-road bus shelter snapshot point along the host's natural path.",
+        "Host maintains forward momentum without entering residential maze alleys.",
+        "Strict geolocation corridor SLA limits maximum host route deviation to ≤ 500m."
+      ],
+      "slaMetrics": [
+        { "label": "Passenger Walk SLA", "value": "80m – 120m" },
+        { "label": "Host Corridor Deviation", "value": "≤ 500m" },
+        { "label": "City Fuel Split", "value": "₹35 – ₹52" },
+        { "label": "Highway Cab Savings", "value": "Up to 85%" }
+      ]
+    },
+    "regulatoryFeasibility": {
+      "status": "100% Legally Feasible & Motor Vehicles Compliant",
+      "details": "Fully aligned with Central Motor Vehicles Guidelines for Non-Commercial Peer Cost Recovery. Since hosts only split actual fuel expenses without commercial profit margins, there is zero commercial yellow-plate permit requirement."
+    },
+    "slideGallery": [
+      {
+        "title": "Commuter Behavior Discovery",
+        "url": "/assets/images/rapido-slide-1.jpg",
+        "caption": "Why two-wheeler owners secretly use Rapido Captain every morning"
+      },
+      {
+        "title": "Social & Economic Motivation",
+        "url": "/assets/images/rapido-slide-2.jpg",
+        "caption": "They aren't taxi drivers; they are daily working commuters"
+      },
+      {
+        "title": "Zero-Detour Bike Sharing",
+        "url": "/assets/images/rapido-slide-3.jpg",
+        "caption": "100m walk for passenger, zero detour for host meetup points"
+      },
+      {
+        "title": "3 Core Innovations",
+        "url": "/assets/images/rapido-slide-4.jpg",
+        "caption": "5-Minute Radar, Pink Pool Community, and Highway Engine"
+      },
+      {
+        "title": "Regulatory Compliance & Live App",
+        "url": "/assets/images/rapido-slide-5.jpg",
+        "caption": "MV Act compliant non-commercial cost recovery + live simulator QR"
+      }
+    ]
+  },
+  "teardowns": [
+    {
+      "id": "founder-assistant",
+      "tag": "GenAI UX Teardown",
+      "title": "The Founder Assistant AI Execution Loop",
+      "category": "Artificial Intelligence & Product Systems",
+      "hook": "Busy founders add 20 to-dos daily to task apps, but passive lists don't execute themselves. Overdue items rot. What if your task list had an active AI execution loop?",
+      "problemStatement": "Existing task management software is entirely passive. It logs tasks but leaves follow-up execution on overwhelmed founders, allowing critical client leads and operational tasks to decay.",
+      "solutionArchitecture": [
+        "Transition from static to-do lists to an active autonomous AI execution loop.",
+        "Autonomous LLM engine drafts client follow-up emails, synthesizes meeting actions, and queues API payloads.",
+        "Automated voice call escalation protocol for P0 critical tagged tasks overdue by >24 hours."
+      ],
+      "projectedImpact": "70% reduction in overdue operational follow-ups for early-stage founders.",
+      "icon": "Bot"
+    },
+    {
+      "id": "autopay-anxiety",
+      "tag": "Fintech UX Teardown",
+      "title": "Curing 'AutoPay Anxiety' — RBI Mandate Control",
+      "category": "Fintech & Payment UX",
+      "hook": "Have you ever felt a spike of anxiety receiving an unexpected subscription debit notification at midnight? Subscription cancellation flows are intentionally fragmented. Here is how we fix AutoPay anxiety.",
+      "problemStatement": "Millions of users experience recurring payment anxiety because pausing or canceling recurring UPI and card mandates requires navigating buried menus across dozens of disparate merchant apps.",
+      "solutionArchitecture": [
+        "Unified RBI Mandate Control Dashboard aggregating all active UPI and card recurring debits in one single view.",
+        "Proactive pre-debit push notifications sent 24 hours prior to scheduled billing.",
+        "1-Tap 30-Day Freeze Control transmitting instant pause instructions directly to core bank mandate APIs."
+      ],
+      "projectedImpact": "Zero unexpected subscription charges; 100% transparent user sovereign control.",
+      "icon": "CreditCard"
+    },
+    {
+      "id": "whatsapp-async",
+      "tag": "Communications UX Teardown",
+      "title": "WhatsApp Business Async Scheduling",
+      "category": "B2B Messaging & Global Workflows",
+      "hook": "Communicating with international clients late at night creates intrusive friction, but waiting until morning means forgetting the draft. How do we bring native async scheduling to WhatsApp Business?",
+      "problemStatement": "Freelancers and SMB owners work across disparate timezones. Sending late-night messages intrudes on clients' personal downtime, while saving manual drafts leads to forgotten follow-ups.",
+      "solutionArchitecture": [
+        "Native press-and-hold 'Schedule Send' trigger integrated directly into the message action bar.",
+        "On-device encrypted queuing storing pending client messages securely until release time.",
+        "Time zone smart-suggestions calculating optimal client delivery windows automatically."
+      ],
+      "projectedImpact": "Frictionless asynchronous client communication with zero message drop.",
+      "icon": "MessageSquare"
+    }
+  ],
+  "certifications": [
+    {
+      "id": "genai-pm",
+      "title": "Generative AI for Product Managers",
+      "issuer": "LinkedIn Learning • PMI® Registered Provider",
+      "date": "Feb 2026",
+      "link": "https://drive.google.com/drive/folders/1VAJNkzWHKG8WFd1IejdWpmNqpeErmC-j?usp=share_link",
+      "credentialBadge": "PMI® Registered"
+    },
+    {
+      "id": "pm-skills",
+      "title": "Project Management Skills for Leaders",
+      "issuer": "LinkedIn Learning • PMI® Registered Provider",
+      "date": "Oct 2025",
+      "link": "https://drive.google.com/drive/folders/1VAJNkzWHKG8WFd1IejdWpmNqpeErmC-j?usp=share_link",
+      "credentialBadge": "PMI® Registered"
+    },
+    {
+      "id": "tech-pm",
+      "title": "Technical Product Management",
+      "issuer": "LinkedIn Learning",
+      "date": "Apr 2026",
+      "link": "https://drive.google.com/drive/folders/1VAJNkzWHKG8WFd1IejdWpmNqpeErmC-j?usp=share_link",
+      "credentialBadge": "Verified Credential"
+    },
+    {
+      "id": "pm-steps",
+      "title": "Product Management First Steps",
+      "issuer": "LinkedIn Learning",
+      "date": "Mar 2026",
+      "link": "https://drive.google.com/drive/folders/1VAJNkzWHKG8WFd1IejdWpmNqpeErmC-j?usp=share_link",
+      "credentialBadge": "Verified Credential"
+    }
+  ]
+}
