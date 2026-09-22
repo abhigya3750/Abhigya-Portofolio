@@ -2,6 +2,7 @@
 
 | Date | Category | Decision | Rationale | Status |
 |---|---|---|---|---|
+| 2026-09-23 | Career & Resume | Strategic Products Hook Architecture (v2.2) | Reordered products (Rapido ➔ Auto-Pay Mandates ➔ WhatsApp Scheduled Messaging ➔ AI Founder Assistant), removed dates, consolidated header portfolio link, and refined hooks for WhatsApp timezone scheduling & AI founder copilot. | Approved by Abhigya |
 | 2026-09-23 | Career & Resume | Single-Page Resume Hook-Driven Architecture (v2.1) | Updated AdAstraa dates (Jan 2026 - Aug 2026), streamlined technical proficiencies with explicit AI & Modern Tools category (Claude, Gemini, Cursor AI, Antigravity IDE, Vercel, GitHub), and reframed 4 Strategic Products & Teardowns with engaging hook bullet points formatted in the exact Work Experience PDF layout. | Approved by Abhigya |
 | 2026-09-22 | Career & Resume | Verbatim Single-Page PDF Resume Layout (v2.0) | Refactored executive resume to match original PDF architecture 1-to-1: removed summary/github/subtitle, added Indore MP, trimmed Adastraa & Fingpay to 4 points max, added 4 strategic projects (Rapido live link + 3 teardowns), removed 10th/12th, and combined Acropolis IT degree with EDC Public Relation leadership. | Approved by Abhigya |
 | 2026-09-17 | Governance | Operating Brief & AGENTS.md locked | Establishes autonomous persona switching, ground rules, content-as-data architecture, and strict approval workflows. | Approved |
