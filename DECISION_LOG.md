@@ -2,6 +2,7 @@
 
 | Date | Category | Decision | Rationale | Status |
 |---|---|---|---|---|
+| 2026-09-22 | Career & Resume | Verbatim Single-Page PDF Resume Layout (v2.0) | Refactored executive resume to match original PDF architecture 1-to-1: removed summary/github/subtitle, added Indore MP, trimmed Adastraa & Fingpay to 4 points max, added 4 strategic projects (Rapido live link + 3 teardowns), removed 10th/12th, and combined Acropolis IT degree with EDC Public Relation leadership. | Approved by Abhigya |
 | 2026-09-17 | Governance | Operating Brief & AGENTS.md locked | Establishes autonomous persona switching, ground rules, content-as-data architecture, and strict approval workflows. | Approved |
 | 2026-09-17 | Architecture | Content-as-Data Separation | Decouple copy, credentials, case studies, and asset paths into a typed JSON/config file so future project/cert additions require zero component rebuilds. | Approved |
 | 2026-09-17 | Tech Stack | Next.js 14/15 App Router + TypeScript + Tailwind CSS | Best-in-class performance, SEO, modularity, dynamic OG/metadata, and fluid micro-interactions with Lucide & Framer Motion. | Approved |
